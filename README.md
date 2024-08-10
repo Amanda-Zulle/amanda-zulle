@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil da Amanda Zulle 😃
 
  <div>
    <a href="https://github.com/amanda-zulle">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para informações sobre meu aprendizado em programação segue redes abaixo!
  
 <div> 
   <a href = "amandazulle86@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
