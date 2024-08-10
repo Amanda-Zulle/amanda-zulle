@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao perfil da Amanda Zulle 😃
+## Bem-vindo(a) ao perfil da Amanda Zulle 😃 
+Em faze de aprendizado!
 
  <div>
    <a href="https://github.com/amanda-zulle">
@@ -14,7 +15,8 @@
  
 <br>
  
-### Para informações sobre meu aprendizado em programação segue redes abaixo!
+### Para informações sobre meu aprendizado em programação segue redes abaixo! 
+
  
 <div> 
   <a href = "amandazulle86@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
